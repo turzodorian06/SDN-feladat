@@ -16,7 +16,7 @@ def get_service_ticket():
     response = requests.post(TICKET_URL, json=payload)
 
     if response.status_code != 200:
-        print("❌ Hiba a ticket lekérésekor!")
+        print(" Hiba a ticket lekérésekor!")
         print(response.text)
         return None
 
@@ -24,7 +24,7 @@ def get_service_ticket():
 
     ticket = data.get("serviceTicket") or data.get("token") or data.get("sessionId")
 
-    print("✅ Service ticket sikeresen lekérve:")
+    print(" Service ticket sikeresen lekérve:")
     print(ticket)
 
     return ticket
