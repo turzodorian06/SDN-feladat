@@ -1,0 +1,3 @@
+Hozz létre SDN-feladat néven egy repository-t a saját github fiókodba.
+A kapott github repository-n található fálkokat másold át a sajátodba.
+Minden elkészült fájlt (megoldást) ide kell feltölteni a megadott néven. 

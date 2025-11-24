@@ -1,0 +1,10 @@
+Ebben a feladatban a Packet Tracer – Implement REST APIs with an SDN Controller.pka fájllal kell dolgoznod.
+Adatok: 
+PT-Controller IP: 192.168.101.254
+ssh username: admin 
+ssh password: admin123
+Készíts 2 python programot:
+- kérj le egy adminisztrációhoz szükséges service ticket-et, (ticket.py)
+- irassd ki a képernyőre a platformId és managementIpAddress adatokat hálózati eszközókről (network.py)
+Feltöltés a githubra!
+

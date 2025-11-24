@@ -1,0 +1,11 @@
+Ebben a feladatban a Packet Tracer – Implement REST APIs with an SDN Controller.pka fájllal kell dolgoznod.
+Adatok: 
+PT-Controller IP: 192.168.101.254
+ssh username: admin 
+ssh password: admin123
+A Postman programot kell használnod (a progrmot a hálózaton találod)
+- kérj le egy adminisztrációhoz szükséges service ticket-et, (postman_ticket.jpg)
+- irass ki minél több adatot a hálózati eszközókről (postman_network.jpg)
+- kérj le adatokat a host-okról (postman_host.jpg)
+Feltöltés githubra!
+
