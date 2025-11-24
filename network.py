@@ -19,7 +19,7 @@ def list_devices():
     response = requests.get(DEVICE_URL, headers=headers)
 
     if response.status_code != 200:
-        print("❌ Hiba az eszközök lekérésekor!")
+        print(" Hiba az eszközök lekérésekor!")
         print(response.text)
         return
 
