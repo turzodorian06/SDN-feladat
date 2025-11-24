@@ -7,9 +7,7 @@ USERNAME = "admin"
 PASSWORD = "admin123"
 
 def get_service_ticket():
-    """
-    Lekéri az adminisztrációhoz szükséges service ticket-et.
-    """
+
     payload = {
         "username": USERNAME,
         "password": PASSWORD
